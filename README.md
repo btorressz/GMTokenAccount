@@ -1,2 +1,2 @@
 # GMTokenAccount
-Token Account chainlink problem from chainlink bootcamp
+ChainLinks Solana Blockchain Developer Bootcamp GMTokenAccount exercise 
